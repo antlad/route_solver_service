@@ -1,0 +1,793 @@
+{
+   "account_id":0,
+   "vehicles":[
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23691,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23718,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23700,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23690,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"29450.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":20659,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"28000.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27207,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"27000.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27008,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"27750.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27011,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"27000.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27139,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3990.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.30",
+         "id":23689,
+         "length":"5.40",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.20",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":20713,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"27750.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27119,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"28000.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27141,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"27000.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27118,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"27700.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.50",
+         "id":27147,
+         "length":"14.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.45",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1500.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27006,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.00",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1400.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27114,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.00",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1400.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27110,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.00",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1500.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27005,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"1.95",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":22056,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23713,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":20658,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":20707,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23692,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":23711,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3990.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.30",
+         "id":23688,
+         "length":"5.40",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.20",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1500.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27117,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.00",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1500.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27199,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.00",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"1500.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":27201,
+         "length":"4.00",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.00",
+         "working_zone":[
+
+         ]
+      },
+      {
+         "capacity":"3950.00",
+         "cost_of_using":"0.00",
+         "cost_per_km":true,
+         "height":"2.20",
+         "id":22078,
+         "length":"6.20",
+         "restricted_zone":[
+
+         ],
+         "trip_duration":0,
+         "trip_length":0,
+         "trip_max_tasks":"30",
+         "types":[
+
+         ],
+         "width":"2.60",
+         "working_zone":[
+
+         ]
+      }
+   ],
+   "zones_":null,
+   "zones":null,
+   "tasks":[
+      {
+         "capacity":8000,
+         "end":{
+            "dur":2700,
+            "lat":55.1239,
+            "lon":37.5548,
+            "te":1.48887e+09,
+            "ts":1.4888628e+09
+         },
+         "id":92096,
+         "maxsize":0,
+         "start":{
+            "dur":2700,
+            "lat":55.959,
+            "lon":37.3374,
+            "te":1.48887e+09,
+            "ts":1.4888628e+09
+         },
+         "types":[
+
+         ],
+         "vip":1,
+         "volume":70
+      },
+      {
+         "capacity":7500,
+         "end":{
+            "dur":2700,
+            "lat":55.2015,
+            "lon":36.5914,
+            "te":1.4888916e+09,
+            "ts":1.4888628e+09
+         },
+         "id":92097,
+         "maxsize":0,
+         "start":{
+            "dur":2700,
+            "lat":55.3283,
+            "lon":37.7363,
+            "te":1.4888916e+09,
+            "ts":1.4888628e+09
+         },
+         "types":[
+
+         ],
+         "vip":1,
+         "volume":66
+      },
+      {
+         "capacity":7500,
+         "end":{
+            "dur":2700,
+            "lat":55.1198,
+            "lon":36.6268,
+            "te":1.4888952e+09,
+            "ts":1.4888628e+09
+         },
+         "id":92098,
+         "maxsize":0,
+         "start":{
+            "dur":2700,
+            "lat":55.5416,
+            "lon":36.9893,
+            "te":1.4888952e+09,
+            "ts":1.4888628e+09
+         },
+         "types":[
+
+         ],
+         "vip":1,
+         "volume":66
+      },
+      {
+         "capacity":7500,
+         "end":{
+            "dur":2700,
+            "lat":56.4997,
+            "lon":38.8367,
+            "te":1.4888916e+09,
+            "ts":1.4888628e+09
+         },
+         "id":92099,
+         "maxsize":0,
+         "start":{
+            "dur":2700,
+            "lat":55.9511,
+            "lon":37.5025,
+            "te":1.4888916e+09,
+            "ts":1.4888628e+09
+         },
+         "types":[
+
+         ],
+         "vip":1,
+         "volume":66
+      },
+      {
+         "capacity":4000,
+         "end":{
+            "dur":2700,
+            "lat":55.7341,
+            "lon":37.7399,
+            "te":1.4888844e+09,
+            "ts":1.4888664e+09
+         },
+         "id":92100,
+         "maxsize":0,
+         "start":{
+            "dur":2700,
+            "lat":55.6558,
+            "lon":37.8547,
+            "te":1.4888844e+09,
+            "ts":1.4888664e+09
+         },
+         "types":[
+
+         ],
+         "vip":1,
+         "volume":24
+      },
+      {
+         "capacity":7500,
+         "end":{
+            "dur":2700,
+            "lat":56.2393,
+            "lon":37.9917,
+            "te":1.4888988e+09,
+            "ts":1.4888664e+09
+         },
+         "id":92101,
+         "maxsize":0,
+         "start":{
+            "dur":2700,
+            "lat":56.1397,
+            "lon":37.4086,
+            "te":1.4888988e+09,
+            "ts":1.4888664e+09
+         },
+         "types":[
+
+         ],
+         "vip":1,
+         "volume":66
+      }
+   ],
+   "settings":{
+      "mean_track_speed_km_in_hour":90,
+      "colony_size_limit":100,
+      "trial_count_max_limit":50,
+      "max_time_in_sec":300,
+      "max_inactive_time_in_sec":30,
+      "log_level":"debug",
+      "partial_solution_enabled":false,
+      "multi_threaded":true
+   }
+}
